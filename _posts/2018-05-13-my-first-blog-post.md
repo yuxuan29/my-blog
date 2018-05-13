@@ -1,9 +1,8 @@
 ---
 layout: "post"
-title: "My First Blog Post"
-categories: Jekyll
-permalink: /:categories/:year/:month/:day/:title.html
+title: "妈妈， 我爱你！"
+categories: love
+permalink: /iloveyou/
 ---
-Some Contents
-
-you can put variables after the permalink
+母亲节快乐！
+Happy mother's day!

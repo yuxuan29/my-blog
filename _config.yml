@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 宇旋的博客 | YX Blog
-email: xieyuxuan29@live.com
+title: 宇旋的博客
+# email: xieyuxuan29@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到我的小站！
 baseurl: "/myblog/" # the subpath of your site, e.g. /blog
